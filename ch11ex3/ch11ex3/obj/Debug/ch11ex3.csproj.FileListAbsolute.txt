@@ -1,0 +1,7 @@
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\bin\Debug\ch11ex3.exe.config
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\bin\Debug\ch11ex3.exe
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\bin\Debug\ch11ex3.pdb
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\obj\Debug\ch11ex3.csproj.AssemblyReference.cache
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\obj\Debug\ch11ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\obj\Debug\ch11ex3.exe
+C:\Users\miran\source\repos\ch11ex3\ch11ex3\obj\Debug\ch11ex3.pdb
